@@ -1,6 +1,5 @@
 #!/bin/bash
-# By Chudo Cheung <chudo_cheung@163.com>
-# https://github.com/chudo-cheung/copy-material-design-icons/
+# By Chudo <chudo_cheung@163.com>
 #
 # Material Design Icons 项目是 Google 根据 Material Design 准则设计的官方图标集
 # 主页：https://github.com/google/material-design-icons
